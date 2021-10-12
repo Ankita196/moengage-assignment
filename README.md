@@ -1,7 +1,7 @@
 # Anime Search App
-<h1>login</h1><br/>
-<h1>Sign Up</h1><br/>
-<h1>All Anime</h1><br/>
-<h1>Search Anime</h1><br/>
-<h1>All details of Anime</h1><br/>
+<h4>login</h4>
+<h4>Sign Up</h4>
+<h4>All Anime</h4>
+<h4>Search Anime</h4>
+<h4>All details of Anime</h4>
 
